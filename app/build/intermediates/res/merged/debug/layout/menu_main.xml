@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item  android:id="@+id/item1"
+        android:title="Normal Mode"/>
+    <item  android:id="@+id/item2"
+        android:title="Terrain Mode"/>
+    <item  android:id="@+id/item3"
+        android:title="Satellite Mode"/>
+</menu>  <!-- From: file:/C:/Users/InFo/AndroidStudioProjects/GoogleMapDemo/app/src/main/res/menu/menu_main.xml -->
